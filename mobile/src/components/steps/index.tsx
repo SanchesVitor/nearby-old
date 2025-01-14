@@ -27,13 +27,6 @@ export function Steps() {
         description="Ative cupons onde estiver, em diferentes tipos de estabelecimento "
        />
 
-      <Step
-        icon={IconTicket}
-        title="Garanta vantagens perto de você"
-        description="Ative cupons onde estiver, em diferentes tipos de estabelecimento "
-       />
-
-
     </View>
   )
 }
